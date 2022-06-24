@@ -3,7 +3,7 @@
 ## O que é isso?
 Esse código tem como objetivo ensinar o usuário o comando PRINT na linguagem Phyton e sua sintaxe.
 
-## Qual tecnlogia usei?
+## Qual tecnologia usei?
 Linguagem - Phyton
 IDE (Ambiente de Desenvolvimento) recomendável: Pycharm
 
