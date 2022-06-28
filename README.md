@@ -1,4 +1,4 @@
-# Hello-World-em-Phyton
+# Hello World em Phyton
 
 ## O que é isso?
 Esse código tem como objetivo ensinar o usuário o comando PRINT na linguagem Phyton e sua sintaxe.
